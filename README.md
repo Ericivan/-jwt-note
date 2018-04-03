@@ -86,5 +86,5 @@ $payload=base64_encode(json_encode($payload));
 
 下图是jwt中client与server的交互过程
 
-[jtw auth](https://github.com/Ericivan/-jwt-note/blob/master/jwt.png)
+![jtw auth](https://github.com/Ericivan/-jwt-note/blob/master/jwt.png)
 
